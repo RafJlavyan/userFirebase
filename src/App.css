@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.grid{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+body{
+  background: #ffe3ed;
+}
+.store h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
